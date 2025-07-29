@@ -1,2 +1,6 @@
-# Resume
-This repository contains my personal resume, available in both PDF and source formats. It highlights my education, skills, projects, work experience, and achievements. Updated regularly to reflect my latest qualifications and career progress.
+# 💼 Urvish Patel  
+
+I am an Information Technology student passionate about Web Development and building real-world solutions.  
+Check out my resume for my **skills, projects, and experience**:  
+
+👉 [View My Resume](https://docs.google.com/document/d/1dHw40rRaKqDiLf6PDNYzV6CrzgvJ7d0BtaqogfGR0R0)  
